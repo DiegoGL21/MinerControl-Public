@@ -1,0 +1,7 @@
+release/
+*.zip
+.godot/
+*.tmp
+*.log
+*.bak
+*~
